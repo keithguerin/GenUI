@@ -6,9 +6,9 @@ This notebook provides a collaborative cloud app dev sandbox with AI assistance.
 
 1. Create/clone a working repo to Colab
 2. Load repo into AI
-2. Edit repo via NLP prompts
-3. Commit & Deploy (Terraform)
-4. (Optional: Edit the notebook and customize.)
+2. Edit source via natural language
+3. Commit & Deploy with Terraform
+4. Optional: Customize the notebook for your app
 
 ## Get started
 
