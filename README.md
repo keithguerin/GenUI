@@ -1,6 +1,6 @@
 # Gen UI
 
-This notebook provides a collaborative cloud app dev sandbox with GPT AI assistance.
+This notebook provides a collaborative cloud app dev sandbox with AI assistance.
 
 ## How it works
 
